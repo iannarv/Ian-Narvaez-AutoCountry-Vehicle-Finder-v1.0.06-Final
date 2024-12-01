@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Ford F-150",
+        "category": "Truck"
+    },
+    {
+        "id": 2,
+        "name": "Tesla CyberTruck",
+        "category": "Electric Truck"
+    },
+    {
+        "id": 3,
+        "name": "Tesla CyberTruck",
+        "category": "Electric Truck"
+    },
+    {
+        "id": 4,
+        "name": "Toyota Tundra",
+        "category": "Truck"
+    },
+    {
+        "id": 5,
+        "name": "Rivian R1T",
+        "category": "Electric Truck"
+    },
+    {
+        "id": 6,
+        "name": "Ram 1500",
+        "category": "Truck"
+    }
+]
